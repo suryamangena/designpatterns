@@ -27,9 +27,9 @@ Contract specifies capabilities that class can provide. Used to build loosely co
 ## UML (Unified Modeling Language)
     Uses to represent classes and relations.
 
-## Memento Pattern
+## [Memento Pattern](https://github.com/suryamangena/designpatterns/blob/main/docs/structural.md)
     Ability to restore an object to its previous state (undo via rollback)
-    [For more details] https://github.com/suryamangena/designpatterns/blob/main/docs/structural.md
+
 
 
 
