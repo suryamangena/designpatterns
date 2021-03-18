@@ -29,8 +29,8 @@ Contract specifies capabilities that class can provide. Used to build loosely co
 
 ## Memento Pattern
     Ability to restore an object to its previous state (undo via rollback)
-    [For more details](https://github.com/suryamangena/designpatterns/blob/main/docs/structural.md)
-     * <a href="https://github.com/suryamangena/designpatterns/blob/main/docs/structural.md">myLib/</a>
+    [For more details] https://github.com/suryamangena/designpatterns/blob/main/docs/structural.md
+
 
 
 
