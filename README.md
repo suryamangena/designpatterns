@@ -14,14 +14,14 @@ Contract specifies capabilities that class can provide. Used to build loosely co
 
 ## Four Core Principles of OOPS
 1) Encapsulation
-    Bundling the data and methods applied on data with in a class/unit and hiding the values or state of object inside a class. By this we can prevent an
+   - Bundling the data and methods applied on data with in a class/unit and hiding the values or state of object inside a class. By this we can prevent an
     object going to invalid state.
 2) Abstraction
-    Reduce complexity by hiding unnecessary details. We can change the implementation details without affecting the other class.
+   - Reduce complexity by hiding unnecessary details. We can change the implementation details without affecting the other class.
 3) Inheritance
-    Inheriting the properties of parent class to child class. Reusing the code.
+   - Inheriting the properties of parent class to child class. Reusing the code.
 4) Polymorphism
-    Ability of object take many forms.
+   - Ability of object take many forms.
 
 
 ## UML (Unified Modeling Language)
